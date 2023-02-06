@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Helloworld" location="G:/Sample_codes/mimas_a7/MimasA7_Microblaze_Helloworld/MimasA7_Microblaze_Helloworld_Vitis/Helloworld" platform="G:/Sample_codes/mimas_a7/MimasA7_Microblaze_Helloworld/MimasA7_Microblaze_Helloworld_Vitis/design1_wrapper/export/design1_wrapper/design1_wrapper.xpfm" platformUID="xilinx:mimas_a7_50t::0.0(custom)" systemProject="Helloworld_system" sysConfig="design1_wrapper" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="ed37810f85bcda2cb1e09e68f09986fe">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.2125101858">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1761408099" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
