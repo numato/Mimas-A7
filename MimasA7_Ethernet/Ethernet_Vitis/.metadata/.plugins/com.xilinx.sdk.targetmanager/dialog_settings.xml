@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="etherent_system-bitFile" value="${project_loc:etherent}/_ide/bitstream/sample_design_wrapper.bit"/>
+	<item key="etherent_system-bmmFile" value="${project_loc:etherent}/_ide/bitstream/sample_design_wrapper.mmi"/>
+	<item key="etherent_system-target" value="Local"/>
+	<item key="etherent_system-device" value="Auto Detect"/>
+	<item key="etherent_system-partial_bit" value="false"/>
+	<item key="etherent_system-skip_rev_check" value="false"/>
+	<item key="programfpga.sdxproject" value="etherent_system"/>
+	<item key="etherent_system-microblaze_0-initElf" value="bootloop"/>
+	<item key="devices_info_Local" value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;Platform Cable USB 00000000000000&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn-DLC9LP-00000000000000-0362c093-0&quot;}}]}"/>
+</section>

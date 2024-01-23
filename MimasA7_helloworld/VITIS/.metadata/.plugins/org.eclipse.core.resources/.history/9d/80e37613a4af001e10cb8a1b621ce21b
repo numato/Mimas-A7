@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="HELLOWORLD" location="C:/Users/MEGHAM/Documents/megha/Projects/MIMAS_A7/helloworld/helloworld/VITIS/HELLOWORLD" platform="C:/Users/MEGHAM/Documents/megha/Projects/MIMAS_A7/helloworld/helloworld/VITIS/helloworld_wrapper/export/helloworld_wrapper/helloworld_wrapper.xpfm" platformUID="xilinx:mimas_a7_50t::0.0(custom)" systemProject="HELLOWORLD_system" sysConfig="helloworld_wrapper" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="06884939872eb27bbac9ea59f899cfc7">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1446897869">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1475720773" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

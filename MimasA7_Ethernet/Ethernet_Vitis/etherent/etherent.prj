@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="etherent" location="C:/Users/MEGHAM/Documents/megha/Mimas_A7_23/MimasA7_Ethernet/My_Vitis/etherent" platform="C:/Users/MEGHAM/Documents/megha/Mimas_A7_23/MimasA7_Ethernet/My_Vitis/sample_design_wrapper/export/sample_design_wrapper/sample_design_wrapper.xpfm" platformUID="xilinx:mimas_a7_50t::0.0(custom)" systemProject="etherent_system" sysConfig="sample_design_wrapper" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="fff81c3fee692bb1f7c70991103e7fad">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.134491481">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1006003229" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="lwip_echo_server" hasBspSettings="true"/>
+</sdkproject:SdkProject>

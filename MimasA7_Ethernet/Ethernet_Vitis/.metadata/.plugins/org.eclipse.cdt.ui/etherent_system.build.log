@@ -1,0 +1,6 @@
+12:36:24 **** Build of configuration Debug for project etherent_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+
+12:36:24 Build Finished (took 110ms)
+
